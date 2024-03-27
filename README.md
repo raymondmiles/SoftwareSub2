@@ -1,12 +1,9 @@
 # Code organisation
-├── example_file.fasta
-├── fastaTogenbank.py
-├── __init__.py
-├── OUTPUTS
-├── README.md
-├── requirements.txt
-├── test_script.py
-└── workingtree.txt
+All the functional code is contained within the fastaTogenbank.py script.
+The unit tests are within the test_script.py script.
+Requirements are within requirements.txt
+An example fasta file has been given as example_file.fasta
+
     
 # How to run the script
 
